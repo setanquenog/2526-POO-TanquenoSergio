@@ -1,5 +1,5 @@
 # ClaseAplicacionClima.py
-# CLASE PRINCIPAL
+# CLASE PRINCIPAL EJECUTA EL PROGRAMA
 
 from clase_clima_semanal import ClimaSemanal
 
